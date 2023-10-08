@@ -5,6 +5,8 @@ You can find my CV [here](/assets/Nicola_Corbellini_CV.pdf).
 
 ![picture](/assets/Picture.jpg  =250x250)
 
+<img src="/assets/Picture.jpg" width=50% height=50%>
+
 
 
  
