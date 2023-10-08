@@ -2,7 +2,7 @@ I am a PhD student in economics at the University of Minnesota. My fields of int
 
 You can find my CV 
 
-[link](https://www.repubblica.it/).
+![picture](https://github.com/NicolaCorbellini/NicolaCorbellini.github.io/blob/main/assets/Picture.jpg)
 
 
 
