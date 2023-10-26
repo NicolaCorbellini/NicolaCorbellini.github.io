@@ -3,6 +3,7 @@ I am a PhD student in economics at the University of Minnesota. My fields of int
 
 You can find my CV [here](/assets/Nicola_Corbellini_CV.pdf).  
 You can find my Job Market Paper [here](/assets/Job_Market_Paper.pdf).  
+[LinkedIn](https://www.linkedin.com/in/nicola-corbellini-a31456125/)
 
 
 <p align="center">
