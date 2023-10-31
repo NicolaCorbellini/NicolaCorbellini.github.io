@@ -1,8 +1,10 @@
 ### Nicola Corbellini
-I am a PhD candidate in economics at the University of Minnesota. My fields of interest are macroeconomics, public economics, and economic growth.
+I am a PhD candidate in economics at the University of Minnesota. I am on the 2023-2024 job market. 
+My fields of interest are macroeconomics, public economics, and economic growth.
 
-You can find my CV [here](/assets/Nicola_Corbellini_CV.pdf).  
-You can find my Job Market Paper [here](/assets/Job_Market_Paper.pdf).  
+[CV](/assets/Nicola_Corbellini_CV.pdf)  
+[Job Market Paper](/assets/Job_Market_Paper.pdf)  
+[Research Statement](/assets/Research_Statement.pdf)  
 [LinkedIn](https://www.linkedin.com/in/nicola-corbellini-a31456125/)
 
 
