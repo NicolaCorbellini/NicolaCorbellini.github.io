@@ -5,8 +5,7 @@ My fields of interest are macroeconomics, public economics, and economic growth.
 [CV](/assets/Nicola_Corbellini_CV.pdf)  
 [Job Market Paper](/assets/Job_Market_Paper.pdf)  
 [Research Statement](/assets/Research_Statement.pdf)  
-[LinkedIn](https://www.linkedin.com/in/nicola-corbellini-a31456125/)
-
+[LinkedIn](https://www.linkedin.com/in/nicola-corbellini-a31456125)
 [Email](mailto:corbe157@umn.edu)
 
 
