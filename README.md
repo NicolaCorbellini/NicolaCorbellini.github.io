@@ -1,5 +1,5 @@
 ### Nicola Corbellini
-I am a PhD candidate in economics at the University of Minnesota. I will be joining the Department of Economics at the Pennsylvania State University as a Visiting Assistant Professor in August 2024.
+I am a Visiting Assistant Professor in the Department of Economics at Penn State University. I received my PhD in economics from the University of Minnesota in June 2024.
 My fields of interest are macroeconomics, public economics, and economic growth.
 
 [CV](/assets/Nicola_Corbellini_CV.pdf)  
@@ -7,7 +7,7 @@ My fields of interest are macroeconomics, public economics, and economic growth.
 [Research Statement](/assets/Research_Statement.pdf)  
 [LinkedIn](https://www.linkedin.com/in/nicola-corbellini-a31456125)
 
-Email: [corbe157@umn.edu](mailto:corbe157@umn.edu)
+Email: [nzc5436@psu.edu](mailto:nzc5436@psu.edu)
 
 
 <p align="center">
