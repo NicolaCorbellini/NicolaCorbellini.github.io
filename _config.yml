@@ -1,4 +1,4 @@
 theme: minima
 header_pages:
-  - README.md
   - research.md
+  [Research](research/)
