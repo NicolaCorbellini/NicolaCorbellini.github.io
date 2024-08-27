@@ -8,7 +8,6 @@ I am a Visiting Assistant Professor in the Department of Economics at Penn State
 My fields of interest are macroeconomics, public economics, and economic growth.
 
 <a href="/assets/Nicola_Corbellini_CV.pdf" target="_blank">CV</a><br>
-[LinkedIn](https://www.linkedin.com/in/nicola-corbellini-a31456125)
 <a href="https://www.linkedin.com/in/nicola-corbellini-a31456125" target="_blank">LinkedIn</a>
 
 Email: [nzc5436@psu.edu](mailto:nzc5436@psu.edu)
