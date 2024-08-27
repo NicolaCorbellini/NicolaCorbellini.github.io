@@ -7,9 +7,9 @@ permalink: /
 I am a Visiting Assistant Professor in the Department of Economics at Penn State University. I received my PhD in economics from the University of Minnesota in June 2024.
 My fields of interest are macroeconomics, public economics, and economic growth.
 
-[CV](/assets/Nicola_Corbellini_CV.pdf)  
-<a href="/assets/Nicola_Corbellini_CV.pdf" target="_blank">CV</a>
+<a href="/assets/Nicola_Corbellini_CV.pdf" target="_blank">CV</a><br>
 [LinkedIn](https://www.linkedin.com/in/nicola-corbellini-a31456125)
+<a href="https://www.linkedin.com/in/nicola-corbellini-a31456125" target="_blank">LinkedIn</a>
 
 Email: [nzc5436@psu.edu](mailto:nzc5436@psu.edu)
 
