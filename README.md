@@ -4,8 +4,6 @@ title: Home
 permalink: /
 ---
 
-<h1 style="font-size: 20px font-weight: bold;">Nicola Corbellini</h1>
-
 I am a Visiting Assistant Professor in the Department of Economics at Penn State University. I received my PhD in economics from the University of Minnesota in June 2024.
 My fields of interest are macroeconomics, public economics, and economic growth.
 
