@@ -2,6 +2,6 @@ theme: minima
 title: 'Nicola Corbellini'
 header_pages:
   - README.md
-  - research.md
   - teaching.md
+  - research.md
 
