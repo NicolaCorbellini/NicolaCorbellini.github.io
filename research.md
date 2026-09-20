@@ -10,3 +10,6 @@ _How does tax enforcement affect average firm size and total factor productivity
 **Measuring Informal GDP Using Survey Data** <a href="/assets/Paper_Informality_Measurement.pdf" target="_blank">Paper</a><br>
 _This paper estimates the share of informal GDP in 26 developing countries over a period that spans up to 2004–2023. The focus is on the concept of legal informality, defined as the activities of enterprises that are not formally registered. I propose a simple framework that formally characterizes informal GDP. I use data from various sources, including the World Bank Enterprise Survey and the International Labour Organization (ILO), to match the conditions derived from the framework. The resulting informality series conform to patterns documented in previous research, such as a negative correlation with GDP per capita and mild anticyclical behavior. Because I adopt a narrower definition of informality, the estimated levels tend to be lower than those reported in previous cross-country studies._
 
+<h2 style="font-size: 20px; font-weight: bold;">Work in Progress</h2>
+**Bank Branching and Distress Events in the United States, 1920-1933**
+
