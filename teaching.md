@@ -5,8 +5,9 @@ permalink: /teaching/
 ---
 
 <h2 style="font-size: 20px; font-weight: bold;">The Pennsylvania State University</h2>
+*Environmental Economics* - Fall 2026<br>
 *Economics of the Financial Crisis* - Spring 2026<br>
-*Applying Monetary Theory and Monetary History* - Fall 2024, Spring 2025, Fall 2025, Spring 2026<br>
+*Applying Monetary Theory and Monetary History* - Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026<br>
 *Growth and Development* - Fall 2025<br>
 *Monetary Theory and Policy* - Fall 2024, Spring 2025 
 
