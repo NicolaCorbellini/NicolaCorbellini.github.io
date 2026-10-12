@@ -5,7 +5,7 @@ permalink: /
 ---
 
 I am a Visiting Assistant Professor in the Department of Economics at Penn State University. I received my PhD in economics from the University of Minnesota in June 2024.
-My fields of interest are macroeconomics, public economics, and economic growth.
+My primary field is macroeconomics, and my research focuses on questions in public economics, economic history, and banking.
 
 <a href="/assets/Nicola_Corbellini_CV.pdf" target="_blank">CV</a><br>
 <a href="https://www.linkedin.com/in/nicola-corbellini-a31456125" target="_blank">LinkedIn</a>
