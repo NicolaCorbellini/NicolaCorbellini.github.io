@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 <h2 style="font-size: 20px; font-weight: bold;">Working Papers</h2>
-**Bank Branching and Bank Runs in the United States, 1920–1933** <a href="/assets/Paper-Bank-Branching.pdf" target="_blank">Paper</a> <br>
+**Bank Branching and Bank Runs in the United States, 1920–1933** <a href="/assets/Paper-Bank-Branching.pdf?v=1" target="_blank">Paper</a> <br>
 _In this paper, I investigate the relationship between bank branching and bank runs and other distress events in the United States between 1920 and 1933. I first develop
 a model showing that branch banks are less likely to experience liquidity crises in normal times but more likely to experience them in the presence of systemic shocks.
 Branch banks, in fact, optimally reduce their holdings of liquid assets in response to deposit diversification, making them more vulnerable to highly correlated liquidity
